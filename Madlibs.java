@@ -1,9 +1,9 @@
 import java.util.Scanner;
 /**
- * Write a description of class Madlibs here.
+ * Madlibs! Text effectively copy+pasted from the Internet, but now in rudimentary Java!
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @Rowan Carter
+ * @9/19/22
  */
 public class Madlibs
 {
